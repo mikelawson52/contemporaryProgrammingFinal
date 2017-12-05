@@ -45,14 +45,72 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmAddress.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmAddress.Designer.cs">
+      <DependentUpon>frmAddress.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="frmCityName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCityName.Designer.cs">
+      <DependentUpon>frmCityName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMap.Designer.cs">
+      <DependentUpon>frmMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStateProvince.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStateProvince.Designer.cs">
+      <DependentUpon>frmStateProvince.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>frmHomeScreen.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStreetName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStreetName.Designer.cs">
+      <DependentUpon>frmStreetName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHouseNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHouseNumber.Designer.cs">
+      <DependentUpon>frmHouseNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAddress.resx">
+      <DependentUpon>frmAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCityName.resx">
+      <DependentUpon>frmCityName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMap.resx">
+      <DependentUpon>frmMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStateProvince.resx">
+      <DependentUpon>frmStateProvince.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHomeScreen.resx">
+      <DependentUpon>frmHomeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStreetName.resx">
+      <DependentUpon>frmStreetName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHouseNumber.resx">
+      <DependentUpon>frmHouseNumber.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
