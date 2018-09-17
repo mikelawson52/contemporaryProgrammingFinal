@@ -1,0 +1,16 @@
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\bin\Debug\lawsonm6_FinalProject.exe
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\bin\Debug\lawsonm6_FinalProject.exe.config
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.frmAddress.resources
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.frmHomeScreen.resources
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.Properties.Resources.resources
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.csproj.GenerateResource.Cache
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.exe
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.pdb
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\bin\Debug\lawsonm6_FinalProject.pdb
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.frmStateProvince.resources
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.frmCityName.resources
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.frmStreetName.resources
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.frmHouseNumber.resources
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.frmMap.resources
+C:\Users\Michael\source\repos\lawsonm6_FinalProject\lawsonm6_FinalProject\obj\Debug\lawsonm6_FinalProject.csprojAssemblyReference.cache
